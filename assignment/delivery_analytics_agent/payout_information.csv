@@ -1,0 +1,12 @@
+Category,Condition,Amount (₹),Notes
+Delivery Payout,Zone A,₹25 per delivery,-
+Delivery Payout,Zone B,₹20 per delivery,-
+Delivery Payout,Zone C,₹15 per delivery,-
+Delivery Payout,Zone D,₹15 per delivery,-
+Kilometer Payout,Per Kilometer,₹3 per km,Applies on total km travelled
+Daily Bonus,Full Shift Present,₹100 per shift,Must have full attendance for the shift
+Peak Hour Bonus,Delivery during Peak Hours,₹5 per delivery,Additional to regular delivery payout
+Undelivered Item,If item undelivered,₹0,No payout for undelivered items
+Damage or Loss,Per Damaged/Lost Item,-₹100,Deduction per Incident
+Late Reporting,If reported late,-₹100,Fixed deduction per late report
+Salary Advance,If salary advance taken,(Amount) deducted,Deduct salary advance from total payout
